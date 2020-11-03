@@ -3,7 +3,7 @@ package leetcode929;
 import java.util.HashSet;
 
 public class FindNumOfUniqueEmailFunction {
-	// Most effective
+
 	public int numUniqueEmails(String[] emails) {
 		HashSet<String> set = new HashSet<>();
 
